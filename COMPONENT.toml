@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-reel"
+tier = 4
+description = "Short video clip editor, transcoder, and timeline preview player inspired by Omareel"
+contracts = ['video-reel-editor', 'clip-timeline', 'ffmpeg-cut-shim']
+upstream_inspirations = ['https://github.com/omacom/omareel']
